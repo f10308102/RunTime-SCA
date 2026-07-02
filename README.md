@@ -27,8 +27,6 @@ Runtime SCA 本身不做 CVE 比對、不掃描原始碼、不掃描 container i
 
 ## Release 檔案
 
-如果你只想在 GitHub Release 上發佈編譯好的檔案，建議至少上傳：
-
 | 檔案 | 用途 |
 |------|------|
 | `runtime-sca` | Linux x86_64 執行檔，建議使用 musl 靜態版本 |
